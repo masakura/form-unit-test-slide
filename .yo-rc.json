@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Form",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "form-unit-test-slide"
+  }
+}
