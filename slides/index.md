@@ -1,10 +1,6 @@
+# 手動テストでも
+# がんばる!
 
-# Form
+南九州ソフトウェア設計Labo vol.1
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+2016/10/8 (土)
