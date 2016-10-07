@@ -1,0 +1,3 @@
+いいアイデアなんですが...
+
+消し忘れてコミットして先輩に怒られるという! <!-- .element: class="fragment" data-fragment-index="1" style="font-size: 120%; color: red" -->
