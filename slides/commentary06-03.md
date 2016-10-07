@@ -1,3 +1,3 @@
 無事全てのコンポーネントがテスト完了です
 
-<!-- 図を入れる -->
+![ボトムアップ](./resources/topdown4.png) <!-- .element: style="width: 40%;" -->
