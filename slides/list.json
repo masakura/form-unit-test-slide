@@ -70,7 +70,11 @@
     "divide01.md",
     "divide02.md",
     "divide03.md",
-    "divide04.md",
+    [
+        "divide04.md",
+        "divide04-01.md",
+        "divide04-02.md"
+    ],
     "divide05.md",
     "divide06.md",
     "divide07.md",
