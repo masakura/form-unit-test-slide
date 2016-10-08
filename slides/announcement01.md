@@ -4,8 +4,5 @@
 | ---- | ----
 | 日時 | 12/3 (土) 午後から
 | 場所 | さくらハウス (鹿児島市内)
-| 内容 | GitLab の 2016 年の主な新機能
-| 内容 | 新機能を使ってみた (仮)
-| 内容 | GitLab と Redmine の連携 (仮)
-| 内容 | Continuous Delivery
-| 内容 | 他調整中
+
+![GitLab](http://www.rologo.com/images/uploads/2015/07/gitlab_logo.png) <!-- .element: style="width: 25%; border: none; background-color: transparent;" -->
