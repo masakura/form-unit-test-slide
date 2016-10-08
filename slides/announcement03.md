@@ -1,5 +1,7 @@
-GitLab は Continuous Delivery の機能も追加されてます!
+発表内容はこんな感じ
 
-そのデモもします!
-
-ワンクリックでデプロイとか、マジ幸せです
+* GitLab の注目の新機能 (2016)
+* 新機能を使ってみた (仮)
+* GitLab と Redmine の連携 (仮)
+* Continuous Delivery
+* 他調整中!

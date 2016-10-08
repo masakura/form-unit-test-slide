@@ -1,7 +1,8 @@
-郵便番号検索画面が最初に表示されるようにしちゃえ!
+そうだ!
+
+最初に表示されるようにしちゃえ!
 
 ```csharp
-[STAThread]
 public void Main()
 {
     Application.EnableVisualStyles();

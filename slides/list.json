@@ -10,8 +10,12 @@
     "test03.md",
     "test04.md",
     "test05.md",
-    "test06.md",
+    [
+        "test06.md",
+        "test06-01.md"
+    ],
     "test07.md",
+    "test07-5.md",
     "test08.md",
     "test09.md",
     [
@@ -74,10 +78,12 @@
     "divide09.md",
     "divide10.md",
     "divide11.md",
+    "divide12.md",
     "announcement.md",
     "announcement01.md",
     "announcement02.md",
     "announcement03.md",
     "announcement04.md",
+    "announcement05.md",
     "finish.md"
 ]
